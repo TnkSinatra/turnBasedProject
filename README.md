@@ -17,3 +17,9 @@ A command-line Pokémon-style battle game written in C#.
 - water: strong towards fire
 - earth: strong towards water 
 - air: strong towards earth, resistant to self
+
+### status effects
+- poison: deals percent current health
+- burning (from fire attacks): deals consistent damage, when done turns into burnt
+- burnt: reduces damage
+- brused (from earth attacks): reduces chance to hit
